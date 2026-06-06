@@ -1,6 +1,6 @@
 # CIR Interest Rate Modelling
-### Finance Club, IIT Roorkee — Open Projects 2026
-
+### Finance Club, IIT Roorkee — Open Project 2026
+### Submitted by- Shubh Sharma (22411036)
 Implementation, calibration, and extension of the **Cox-Ingersoll-Ross (CIR)** stochastic short-rate model on real yield curve data. The core challenge: use only the 3-month yield as input and reconstruct the entire yield curve from first principles.
 
 ---
